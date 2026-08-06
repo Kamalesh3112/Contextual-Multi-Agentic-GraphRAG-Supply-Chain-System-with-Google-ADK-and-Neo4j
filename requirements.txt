@@ -1,0 +1,20 @@
+-e git+https://github.com/google/adk-samples.git@5c8dcb97200bda71da935a8fe6c0ef77d4fd2569#egg=adk&subdirectory=python
+
+google-adk==1.14.1
+python-dotenv==1.1.1
+numpy==2.3.2
+pandas==2.3.1
+neo4j==5.28.2
+redis==6.4.0
+langfuse==3.2.1
+openai==1.101.0
+sentence-transformers==5.1.0
+milvus-lite==2.5.1
+pymilvus==2.6.1
+fastapi==0.116.1
+uvicorn==0.35.0
+pydantic==2.11.7
+SPARQLWrapper==2.0.0
+sarvamai==0.1.28
+fastmcp==3.4.4 
+fastmcp-slim==3.4.4
