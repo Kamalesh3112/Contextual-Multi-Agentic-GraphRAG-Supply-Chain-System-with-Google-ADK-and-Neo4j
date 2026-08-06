@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Domain: Multi-Agentic GraphRAG Supply chain Application using Google ADK and Neo4j
 Models:  NVIDIA Nemotron 3 Nano Omni, NVIDIA nemotron-3-ultra-550b-a55b:free,  Gemma 4 - 12B, Saravam Vision or TTS or STT, Gemini 3.1 Flash TTS, GLM-5.2 (Ollama)
 LLM Inference and Server: Open Router or Nvidia or Ollama
@@ -49,3 +50,7 @@ OpenRouter Nemotron Ultra 3 → Primary reasoning model
 Qwen 3.7 Plus → Fallback model
 Milvus → Vector retrieval
 Langfuse → Observability
+=======
+# Contextual-Multi-Agentic-GraphRAG-Supply-Chain-System-with-Google-ADK-and-Neo4j
+A Contextual Multi‑Agentic GraphRAG System integrating Google ADK orchestration with Neo4j graph queries, designed to enable coordinated retrieval and reasoning across complex supply chain datasets.
+>>>>>>> dc317161310bc897975c71e20596ba684c29ed74
