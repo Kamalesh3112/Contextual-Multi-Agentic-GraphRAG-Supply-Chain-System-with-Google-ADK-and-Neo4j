@@ -27,6 +27,7 @@ class OpenRouterClient:
     Handles API translation layer requests to OpenRouter endpoints.
     Fits seamlessly within custom ADK workflow hooks.
     """
+    from google.adk.agents import Agent
     def __init__(self):
         self.api_key = os.getenv("OPENROUTER_API_KEY")
         self.base_url = "https://openrouter.ai"
