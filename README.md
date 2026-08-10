@@ -138,4 +138,4 @@ Current focus includes:
 
 ## License
 
-This project is intended for research and educational purposes.
+This project is intended for research and production build purposes.
