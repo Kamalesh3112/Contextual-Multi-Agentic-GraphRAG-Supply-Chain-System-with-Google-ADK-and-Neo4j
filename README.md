@@ -132,7 +132,7 @@ Current focus includes:
 - [ ] Dynamic Worker Agents
 - [ ] Loop Engineering
 - [ ] Evaluation Framework
-- [ ] Kubernetes Deployment
+- [ ] Docker Deployment
 
 ---
 
