@@ -138,4 +138,4 @@ Current focus includes:
 
 ## License
 
-This project is intended for research and production build purposes. System is currently versioned as V1.0.0
+This project is currently under development and further iteration, it is intended for research and production build purposes. System is currently versioned as V1.0.0
