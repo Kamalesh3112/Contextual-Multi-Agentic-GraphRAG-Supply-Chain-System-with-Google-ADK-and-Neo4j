@@ -32,7 +32,7 @@ Responsibilities:
     - Highly efficient chunked batch embedding generation.
     - Node, relationship, and abstract property transformations.
     - L2 Euclidean or Cosine distance matrix normalization.
-    - LRU-backed query and node embedding caching.
+    - FIFO query and node embedding caching.
 """
 
 import logging
